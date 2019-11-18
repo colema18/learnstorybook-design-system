@@ -1,5 +1,9 @@
-import React from "react";
-import { withKnobs, select, boolean } from "@storybook/addon-knobs";
+import React from "../../../node_modules/react";
+import {
+  withKnobs,
+  select,
+  boolean
+} from "../../../node_modules/@storybook/addon-knobs";
 
 import { Avatar } from "./Avatar";
 
