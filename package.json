@@ -5,6 +5,7 @@
   "dependencies": {
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
+    "execa": "^3.3.0",
     "polished": "^3.4.2",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
