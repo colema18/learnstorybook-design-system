@@ -11,7 +11,9 @@ export default {
   title: "Design System|Avatar",
 
   parameters: {
-    component: Avatar
+    component: Avatar,
+    componentSubtitle:
+      "Displays an image that represents a user or organization"
   }
 };
 
