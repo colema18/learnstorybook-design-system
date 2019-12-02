@@ -16,7 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "cross-env BABEL_ENV=production babel src -d dist",
+    "build": "BABEL_ENV=production babel src -d dist",
+    "cebuild": "cross-env BABEL_ENV=production babel src -d dist",
     "test": "react-scripts test",
     "release": "auto shipit",
     "eject": "react-scripts eject",
