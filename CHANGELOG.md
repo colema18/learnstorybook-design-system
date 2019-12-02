@@ -1,3 +1,15 @@
+# v0.1.21 (Mon Dec 02 2019)
+
+#### ⚠️  Pushed to master
+
+- remove cross-env from build script  (james.coleman@investisdigital.com)
+
+#### Authors: 1
+
+- james-coleman (james.coleman@investisdigital.com)
+
+---
+
 # v0.1.1 (Sat Nov 30 2019)
 
 #### ⚠️  Pushed to master
